@@ -100,7 +100,7 @@ WPA2, WAPI.
 
 ---
 
-### Firmware: [Download]
+### Firmware: !!!Coming soon!!!
 
 ![](/img/13.jpg)
 
@@ -143,6 +143,10 @@ WPA2, WAPI.
 
 - 4x M4 55mm screw
 - 4x M4 nut
+
+---
+
+### Buy: !!!Coming soon!!!
 
 ---
 
