@@ -6,7 +6,7 @@
 
 The MoonWalker is a DIY Wireless Network Router and includes an 802.11n MAC and baseband, a 2.4GHz radio and FEM, a 580MHz MIPS CPU, a 5-port 10/100 fast Ethernet switch. Solution for low power, low-cost, and highly integrated AP router and consumer electronic devices, the module requires only an external 3.3V power supply. It supports 802.11n operating up to 144 Mbps for 20 MHz and 300 Mbps for 40 MHz channel respectively, and IEEE 802.11b/g data rates. The module supports bridge mode and AP Client mode and Gateway mode. The high performance Module can process advanced applications effortlessly, such as routing, security and VoIP. It also includes a selection of interface to support a variety of applications, such as a USB port for accessing external storage and 3G/LTE modem. Especially in the IOT, a wide range of applications.
 
-![](/pictures/logo.jpg)
+![](/img/logo.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ WPA2, WAPI.
 ### V1.2
 
 - Added Power SPDT Switch toggle
-![](/pictures/15.jpg)
+![](/img/15.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ WPA2, WAPI.
 
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 - Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
-![](/pictures/14.jpg)
+![](/img/14.jpg)
 ---
 
 ### Applications:
@@ -75,34 +75,34 @@ WPA2, WAPI.
 
 ### Application block diagram:
 
-![](/pictures/8.jpg)
+![](/img/8.jpg)
 
 ---
 
 ### Samples:
 
-![](/pictures/1.jpg)
-![](/pictures/2.jpg)
-![](/pictures/3.jpg)
-![](/pictures/4.jpg)
-![](/pictures/5.jpg)
-![](/pictures/6.jpg)
-![](/pictures/7.jpg)
-![](/pictures/10.jpg)
-![](/pictures/11.jpg)
-![](/pictures/12.jpg)
+![](/img/1.jpg)
+![](/img/2.jpg)
+![](/img/3.jpg)
+![](/img/4.jpg)
+![](/img/5.jpg)
+![](/img/6.jpg)
+![](/img/7.jpg)
+![](/img/10.jpg)
+![](/img/11.jpg)
+![](/img/12.jpg)
 
 ---
 
-### Schematic: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/lulo.pdf "Download")
+### Schematic: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/moonwalker.pdf "Download")
 
-![](/pictures/9.jpg)
+![](/img/9.jpg)
 
 ---
 
-### Firmware: [Download](https://openwrt.org/toh/hwdata/skylab/skylab_skw92a "skw92a") (OpenWrt)
+### Firmware: [Download]
 
-![](/pictures/13.jpg)
+![](/img/13.jpg)
 
 ### Recommended packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
@@ -112,32 +112,32 @@ WPA2, WAPI.
 
 ### How to flash (Service mode):
 
-- [Wiki](https://github.com/drcyberg/LuLo_Pro_V1/wiki/How-to-flash "Flash")
+- [Wiki](https://github.com/drcyberg/MoonWalker_V1/wiki/How-to-flash "How to flash")
 
 ---
 
-### Manual (Chip): [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/lulo/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+### Manual (Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
-### BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/LuLo_Pro_V1/blob/master/bom/ibom.html "View")
+### BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/MoonWalker_V1/blob/master/bom/mwbom.html "View")
 
 ---
 
-### PCB gerber file: [Download](https://github.com/drcyberg/LuLo_Pro_V1/blob/master/manufacturing/lulo_v1_2.zip "Download")
+### PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_2.zip "Download")
 
 ---
 
 ### 3D models:
 
-![](/pictures/LuLo.jpg)
+![](/img/MoonWalker.jpg)
 
-- [Base](/stl/lulo_base.stl "Base")
-- [Frame](/stl/lulo_frame.stl "Frame")
-- [Simple Cover](/stl/lulo_top_cover.stl "Simple cover")
-- [Stand](/stl/lulo_stand.stl "Stand")
-- [Cover With 16x2 Lcd](/stl/lulo_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
-- [Cover With 20x4 Lcd](/stl/lulo_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
+- [Base](/stl/moonwalker_base.stl "Base")
+- [Frame](/stl/moonwalker_frame.stl "Frame")
+- [Simple Cover](/stl/moonwalker_top_cover.stl "Simple cover")
+- [Stand](/stl/moonwalker_stand.stl "Stand")
+- [Cover With 16x2 Lcd](/stl/moonwalker_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
+- [Cover With 20x4 Lcd](/stl/moonwalker_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
 ### Required other parts:
 
