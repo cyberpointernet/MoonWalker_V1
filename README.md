@@ -45,6 +45,20 @@ WPA2, WAPI.
 
 ---
 
+### Applications:
+
+- [x] USB WiFi Camera
+- [x] IOT (internet of things)
+- [x] WiFi AP
+- [x] 3G/4G WiFi Router
+- [x] WiFi Repeater
+- [x] Building Automation
+- [x] Home Automation
+- [x] Smart Home Gateway
+- [x] Industry Control
+
+---
+
 ### Changelog:
 
 ### V1.2
@@ -57,20 +71,6 @@ WPA2, WAPI.
 - Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 - Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
 ![](/img/14.jpg)
-
----
-
-### Applications:
-
-- [x] USB WiFi Camera
-- [x] IOT (internet of things)
-- [x] WiFi AP
-- [x] 3G/4G WiFi Router
-- [x] WiFi Repeater
-- [x] Building Automation
-- [x] Home Automation
-- [x] Smart Home Gateway
-- [x] Industry Control
 
 ---
 
