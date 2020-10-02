@@ -61,6 +61,11 @@ WPA2, WAPI.
 
 ### Changelog:
 
+### V1.3
+
+- Added through hole
+![](/img/16.jpg)
+
 ### V1.2
 
 - Added Power SPDT Switch toggle
@@ -125,7 +130,7 @@ WPA2, WAPI.
 
 ---
 
-### PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_2.zip "Download")
+### PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "Download")
 
 ---
 
