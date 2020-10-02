@@ -59,7 +59,7 @@ WPA2, WAPI.
 
 ---
 
-### Changelog:
+### Changelogs:
 
 ### V1.3
 
