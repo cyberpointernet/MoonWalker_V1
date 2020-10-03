@@ -108,17 +108,13 @@ WPA2, WAPI.
 
 ### Firmwares:
 
-Original release: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") (Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4"))
+Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") (Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4"))
 
-Nightly release: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") 
-Optimized and secured for better performance and mounthly updated packages firmware.
-Include packages:
+MoonWalker release: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") ; [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases") Optimized and secured for better performance and every mounth updated packages firmware. Include packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
 - [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy")
 - [Ad blocking](https://openwrt.org/docs/guide-user/services/ad-blocking "Ad blocking")
 - Added [Hungarian](https://openwrt.org/packages/pkgdata/luci-i18n-base-lang "Hungarian") language for luci web interface
-
-- *: MoonWalker releases: [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")
 
 ![](/img/13.jpg)
 
