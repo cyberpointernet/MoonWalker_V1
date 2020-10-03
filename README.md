@@ -115,7 +115,7 @@ MoonWalker release firmware*: [Download](https://github.com/drcyberg/MoonWalker_
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
 - [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy")
 - [Ad blocking](https://openwrt.org/docs/guide-user/services/ad-blocking "Ad blocking")
-- Added [Hungarian](https://openwrt.org/packages/pkgdata/luci-i18n-base-lang "Hungarian") language for luci web interface
+- [Hungarian](https://openwrt.org/packages/pkgdata/luci-i18n-base-lang "Hungarian") language for luci web interface
 
 ![](/img/13.jpg)
 
