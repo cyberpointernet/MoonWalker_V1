@@ -2,7 +2,7 @@
 
 ---
 
-### Description:
+## Description:
 
 The MoonWalker is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself "Wikipedia") prototype version Wireless Network Routers and includes an 802.11n MAC and baseband, a 2.4GHz radio and FEM, a 580MHz MIPS CPU, a 5-port 10/100 fast Ethernet switch. Solution for low power, low-cost, and highly integrated AP router and consumer electronic devices, the module requires only an external 3.3V power supply. It supports 802.11n operating up to 144 Mbps for 20 MHz and 300 Mbps for 40 MHz channel respectively, and IEEE 802.11b/g data rates. The module supports bridge mode and AP Client mode and Gateway mode. The high performance Module can process advanced applications effortlessly, such as routing, security and VoIP. It also includes a selection of interface to support a variety of applications, such as a USB port for accessing external storage and 3G/LTE modem. Especially in the IOT, a wide range of applications.
 
@@ -10,7 +10,7 @@ The MoonWalker is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself
 
 ---
 
-### Specifications:
+## Specifications:
 
 - Compliant to IEEE 802.11b/g/n.
 - 2T2R mode with support for a 300Mbps PHY
@@ -31,7 +31,7 @@ WPA2, WAPI.
 
 ---
 
-### Extra additionals:
+## Extra additionals:
 
 - Extended mode (optional): Fan/LED Strip pinout header (if you use, increase input power to DC 5V/1500mAh)
 - Reset button
@@ -45,7 +45,7 @@ WPA2, WAPI.
 
 ---
 
-### Applications:
+## Applications:
 
 - [x] USB WiFi Camera
 - [x] IOT (internet of things)
@@ -59,7 +59,7 @@ WPA2, WAPI.
 
 ---
 
-### Changelogs:
+## Changelogs:
 
 ### V1.3
 
@@ -79,13 +79,13 @@ WPA2, WAPI.
 
 ---
 
-### Application block diagram:
+## Application block diagram:
 
 ![](/img/8.jpg)
 
 ---
 
-### Samples:
+## Samples:
 
 ![](/img/1.jpg)
 ![](/img/2.jpg)
@@ -100,18 +100,18 @@ WPA2, WAPI.
 
 ---
 
-### Schematic: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/moonwalker.pdf "Download")
+## Schematic: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/moonwalker.pdf "Download")
 
 ![](/img/9.jpg)
 
 ---
 
-### Firmwares:
+## Firmwares:
 
-Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases") (Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4"))
+### Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases") (Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4"))
 
-MoonWalker release firmware*: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
-*Optimized and secured for better performance and every mounth updated packages firmware. Include packages:
+### MoonWalker release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
+Optimized and secured for better performance and every mounth updated packages firmware. Include packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
 - [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy")
 - [Ad blocking](https://openwrt.org/docs/guide-user/services/ad-blocking "Ad blocking")
@@ -121,25 +121,25 @@ MoonWalker release firmware*: [Download](https://github.com/drcyberg/MoonWalker_
 
 ---
 
-### How to flash (Service mode):
+## How to flash (Service mode):
 
 - [Wiki](https://github.com/drcyberg/MoonWalker_V1/wiki/How-to-flash "How to flash")
 
 ---
 
-### Manual (Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+## Manual (Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
-### BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/MoonWalker_V1/blob/master/bom/mwbom.html "View")
+## BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/MoonWalker_V1/blob/master/bom/mwbom.html "View")
 
 ---
 
-### PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "Download")
+## PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "Download")
 
 ---
 
-### 3D models:
+## 3D models:
 
 ![](/img/MoonWalker.jpg)
 
@@ -150,27 +150,27 @@ MoonWalker release firmware*: [Download](https://github.com/drcyberg/MoonWalker_
 - [Cover With 16x2 Lcd](/stl/moonwalker_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
 - [Cover With 20x4 Lcd](/stl/moonwalker_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
-### Required other parts:
+## Required other parts:
 
 - 4x M4 60mm screw
 - 4x M4 nut
 
 ---
 
-### Buy: !!!Coming soon!!!
+## Buy: !!!Coming soon!!!
 
 ---
 
-### Thingiverse: [Link](https://www.thingiverse.com/thing:4262740 "Link")
+## Thingiverse: [Link](https://www.thingiverse.com/thing:4262740 "Link")
 
 ---
 
-### OpenWrt forum: [Link](https://forum.openwrt.org/t/prototype-lulo-pro-v1-wireless-network-router/60118 "Link")
+## OpenWrt forum: [Link](https://forum.openwrt.org/t/prototype-lulo-pro-v1-wireless-network-router/60118 "Link")
 
 ---
 
-### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
+## If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
 ---
 
-### Have a nice day!
+## Have a nice day!
