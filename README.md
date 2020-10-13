@@ -40,8 +40,9 @@ WPA2, WAPI.
 - USB connection interface (only debugging mode)
 - SD Card storage interface
 - Other pinout headers from Chip (see Chip Manual)
-- Flashing mode slide switch (V1.1)
-- Power SPDT Switch toggle (V1.2)
+- Flashing mode sliding switch (V1.1)
+- Power SPDT switch toggle (V1.2)
+- Power sliding switch (V1.4)
 
 ---
 
@@ -60,6 +61,11 @@ WPA2, WAPI.
 ---
 
 ## Changelogs:
+
+### V1.4
+
+- Changed power SPDT switch toggle to sliding switch
+![](/img/17.jpg)
 
 ### V1.3
 
@@ -135,7 +141,10 @@ Optimized and secured for better performance and every mounth updated packages f
 
 ---
 
-## PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "Download")
+## PCB gerber file:
+
+- [SPDT switch](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "SPDT switch")
+- [Sliding switch](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_4.zip "Sliding switch")
 
 ---
 
