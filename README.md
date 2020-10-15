@@ -152,12 +152,12 @@ Optimized and secured for better performance and every mounth updated packages f
 
 ![](/img/MoonWalker.jpg)
 
-- [Base](/stl/moonwalker_base.stl "Base")
-- [Frame](/stl/moonwalker_frame.stl "Frame")
-- [Simple Cover](/stl/moonwalker_top_cover.stl "Simple cover")
-- [Stand](/stl/moonwalker_stand.stl "Stand")
-- [Cover With 16x2 Lcd](/stl/moonwalker_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
-- [Cover With 20x4 Lcd](/stl/moonwalker_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
+- [Base](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_base.stl "Base")
+- [Frame](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_frame.stl "Frame")
+- [Simple Top Cover](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_top_cover.stl "Simple cover")
+- [Stand](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_stand.stl "Stand")
+- [Cover With 16x2 Lcd](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_top_wo_fan_16x2.stl "Cover With 16x2 Lcd")
+- [Cover With 20x4 Lcd](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_top_wo_fan_20x4.stl "Cover With 20x4 Lcd")
 
 ## Required other parts:
 
