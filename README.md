@@ -127,9 +127,7 @@ Optimized and secured for better performance and every mounth updated packages f
 
 ---
 
-## How to flash (Service mode):
-
-- [Wiki](https://github.com/drcyberg/MoonWalker_V1/wiki/How-to-flash "How to flash")
+## How to flash (Service mode): [Wiki](https://github.com/drcyberg/MoonWalker_V1/wiki/How-to-flash "How to flash")
 
 ---
 
