@@ -114,7 +114,8 @@ WPA2, WAPI.
 
 ## Firmwares:
 
-### - Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases") (Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4"))
+### - Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
+Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4")
 
 ### - MoonWalker release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
 Optimized and secured for better performance and every mounth updated packages firmware. Include packages:
