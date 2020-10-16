@@ -118,7 +118,7 @@ WPA2, WAPI.
 Changelogs: [OpenWRT 19.07.4](https://openwrt.org/releases/19.07/changelog-19.07.4 "OpenWRT 19.07.4")
 
 ### - MoonWalker release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
-Optimized and secured for better performance and every mounth updated packages firmware. Include packages:
+Based on OpenWRT Development Snapshot builds version and optimized performance for fast networks and secured for better fast internet surfing. Every mounth updated packages firmware. Include packages:
 - [SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm "SQM aka Smart Queue Management")
 - [DNS over HTTPS with Dnsmasq and https-dns-proxy](https://openwrt.org/docs/guide-user/services/dns/doh_dnsmasq_https-dns-proxy "DNS over HTTPS with Dnsmasq and https-dns-proxy")
 - [Ad blocking](https://openwrt.org/docs/guide-user/services/ad-blocking "Ad blocking")
