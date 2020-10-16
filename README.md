@@ -141,10 +141,7 @@ Optimized and secured for better performance and every mounth updated packages f
 
 ---
 
-## PCB gerber file:
-
-- [SPDT switch version](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_3.zip "SPDT switch") (V1.3)
-- [Sliding switch version](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_4.zip "Sliding switch") (V1.4)
+## PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_4.zip "Download") ([V1.4](https://github.com/drcyberg/MoonWalker_V1/releases/tag/V1.4 "V1.4"))
 
 ---
 
