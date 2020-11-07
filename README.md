@@ -69,7 +69,7 @@ WPA2, WAPI.
 
 ### V1.3
 
-- Added through hole
+- Added through hole for to the FAN/LED cables
 ![](/img/16.jpg)
 
 ### V1.2
@@ -132,7 +132,7 @@ Based on [OpenWRT Development Snapshot builds](https://openwrt.org/releases/snap
 
 ---
 
-## Manual (Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+## Manual (Som Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
