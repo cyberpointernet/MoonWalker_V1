@@ -106,12 +106,6 @@ WPA2, WAPI.
 
 ---
 
-## Schematic: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/moonwalker.pdf "Download")
-
-![](/img/9.jpg)
-
----
-
 ## Firmwares:
 
 ### - Basic original release firmware: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/firmwares/openwrt-19.07.4-ramips-mt76x8-moonwalker-squashfs-sysupgrade.bin "Download") or [View](https://github.com/drcyberg/MoonWalker_V1/releases "MoonWalker releases")  
