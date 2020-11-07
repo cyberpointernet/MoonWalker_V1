@@ -132,7 +132,7 @@ Based on [OpenWRT Development Snapshot builds](https://openwrt.org/releases/snap
 
 ---
 
-## Manual (Som Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
+## Manual (SoM Chip): [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/doc/SkyLab_SKW92A_V1.04_datasheet.pdf "Manual")
 
 ---
 
