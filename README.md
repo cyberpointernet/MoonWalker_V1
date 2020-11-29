@@ -40,7 +40,7 @@ WPA2, WAPI.
 - USB connection interface (only debugging mode)
 - SD Card storage interface
 - Other pinout headers from Chip (see Chip Manual)
-- Flashing/USB mode sliding switch (V1.1)
+- Flashing/Debugging (USB) mode sliding switch (V1.1)
 - Power SPDT switch toggle (V1.2)
 - Power sliding switch (V1.4)
 
@@ -79,7 +79,7 @@ WPA2, WAPI.
 
 ### V1.1
 
-- Added slide switch for enable easier standalone flashing/debug mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
+- Added slide switch for enable easier standalone flashing/Debugging (USB) mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
 - Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
 ![](/img/14.jpg)
 
