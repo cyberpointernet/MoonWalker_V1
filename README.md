@@ -27,7 +27,7 @@ GPIO.
 - Security: WEP64/128, TKIP, AES, WPA,
 WPA2, WAPI.
 - Support AP/Client/Router mode.
-- Power Supply Adapter: Standalone mode = DC 6V/1000mAh ; Extended mode = 6V/1500mAh
+- Power Supply Adapter: Standalone mode = DC 6V 1000mAh ; Extended mode = 6V 1500mAh
 
 ---
 
