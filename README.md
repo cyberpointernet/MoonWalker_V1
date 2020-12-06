@@ -35,6 +35,7 @@ WPA2, WAPI.
 
 - Extended mode (optional): Fan/LED Strip pinout header (if you use, increase input power to DC 5V/1500mAh)
 - Reset button
+- DC socket
 - Network traffic LEDs indicators
 - ICSP header (programming interface)
 - USB connection interface (only debugging mode)
