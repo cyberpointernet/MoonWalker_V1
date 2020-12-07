@@ -94,7 +94,7 @@ WPA2, WAPI.
 
 ## Samples:
 
-![](/img/advertisting.jpg)
+![](/img/advertising.jpg)
 ![](/img/samples.jpg)
 
 ---
