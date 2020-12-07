@@ -126,7 +126,7 @@ Based on [OpenWRT Development Snapshot builds](https://openwrt.org/releases/snap
 ## PCB gerber file: [Download](https://github.com/drcyberg/MoonWalker_V1/blob/master/manufacturing/mw_v1_4.zip "Download")
 
 - Dimensions: 100x100mm
-- Layers: 2
+- Layers: 2lv
 
 ---
 
