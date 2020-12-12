@@ -1,6 +1,6 @@
 # MoonWalker V1 Wireless Network Router
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/drcyberg/MoonWalker_V1)  ![GitHub](https://img.shields.io/github/license/drcyberg/MoonWalker_V1)  ![GitHub release (by tag)](https://img.shields.io/github/downloads/drcyberg/MoonWalker_V1/V1.4/total)  ![GitHub repo size](https://img.shields.io/github/repo-size/drcyberg/MoonWalker_V1)  [![Website](https://img.shields.io/website?up_message=MoonWalker_V1&url=https%3A%2F%2Fdrcyberg.github.io%2FMoonWalker_V1%2F)](drcyberg.github.io/MoonWalker_V1/)  ![GitHub followers](https://img.shields.io/github/followers/drcyberg?style=social)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/drcyberg/MoonWalker_V1)](https://github.com/drcyberg/MoonWalker_V1/releases/tag/V1.4)  ![GitHub](https://img.shields.io/github/license/drcyberg/MoonWalker_V1)  ![GitHub release (by tag)](https://img.shields.io/github/downloads/drcyberg/MoonWalker_V1/V1.4/total)  ![GitHub repo size](https://img.shields.io/github/repo-size/drcyberg/MoonWalker_V1)  [![Website](https://img.shields.io/website?up_message=MoonWalker_V1&url=https%3A%2F%2Fdrcyberg.github.io%2FMoonWalker_V1%2F)](https://drcyberg.github.io/MoonWalker_V1/)  ![GitHub followers](https://img.shields.io/github/followers/drcyberg?style=social)
 
 ---
 
