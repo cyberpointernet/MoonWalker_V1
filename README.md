@@ -134,6 +134,7 @@ Based on [OpenWRT Development Snapshot builds](https://openwrt.org/releases/snap
 
 ## 3D models:
 
+![](/img/moonwalker.gif)
 ![](/img/MoonWalker.jpg)
 
 - [Base](https://github.com/drcyberg/MoonWalker_V1/blob/master/stl/moonwalker_base.stl "Base")
