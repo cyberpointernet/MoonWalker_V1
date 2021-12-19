@@ -65,26 +65,9 @@ WPA2, WAPI.
 
 ## Changelogs:
 
-### V1.4
+### V1.0
 
-- Changed power SPDT switch toggle to sliding switch
-![](/img/17.jpg)
-
-### V1.3
-
-- Added through hole for to the FAN/LED cables
-![](/img/16.jpg)
-
-### V1.2
-
-- Added Power SPDT Switch toggle
-![](/img/15.jpg)
-
-### V1.1
-
-- Added slide switch for enable easier standalone flashing/Debugging (USB) mode with only DC 3,3V input power (support many [flashing USB keys](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200810135246&SearchText=ftdi+usb "Aliexpress")), say Thee not necessary  any more external power
-- Hardware support for more performance and stability issue for the Ethernet ports (fixed random lagging network)
-![](/img/14.jpg)
+- First stable release
 
 ---
 
