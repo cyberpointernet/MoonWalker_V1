@@ -79,7 +79,6 @@ WPA2, WAPI.
 
 ## Samples:
 
-![](/img/presentation.jpg)
 ![](/img/samples.jpg)
 
 ---
