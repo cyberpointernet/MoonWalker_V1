@@ -14,38 +14,36 @@ The MoonWalker is a Hungarian [DIY](https://en.wikipedia.org/wiki/Do_it_yourself
 
 ## Specifications:
 
-- Compliant to IEEE 802.11b/g/n.
-- 2T2R mode with support for a 300Mbps PHY
-data rate.
-- DDR2 memory up to 1024Mb.
-- Flash memory up to 256Mb.
-- 4 LAN ports and 1 WAN port.
+- Compliant to IEEE 802.11b/g/n
+- 2T2R mode with support for a 300Mbps PHY data rate
+- DDR2 memory up to 1024Mb
+- Flash memory up to 256Mb
+- 4 LAN ports and 1 WAN port
 - Support USB 2.0 slave device for USB disk
-and USB 3G/4G dongle and USB camera.
-- Support SD card.
-- Support interface: I2C, PCM,
-I2S (192Kb/s, 24bits), PWM, SPI slave, UART lite,
-GPIO.
-- Security: WEP64/128, TKIP, AES, WPA,
-WPA2, WAPI.
-- Support AP/Client/Router mode.
+and USB 3G/4G dongle and USB camera
+- Support SD card
+- Support interface: I2C, PCM, I2S (192Kb/s, 24bits), PWM, SPI slave, UART lite, GPIO
+- Security: WEP64/128, TKIP, AES, WPA, WPA2, WAPI
+- Support AP/Client/Router mode
+- RoHS compliance meets environment-friendly requirement
 - Power Supply Adapter: Standalone mode = DC 6V 1000mAh ; Extended mode = 6V 1500mAh
 
 ---
 
 ## Extra Additionals:
 
-- Extended mode (optional): Fan/LED Strip pinout header (if you use, increase input power to DC 5V/1500mAh)
+- Extended mode (optional): Fan/PWM/LED Strip pinout header (if you use, increase input power to DC 5V/1500mAh)
 - Reset button
 - DC Jack socket
 - Network traffic LEDs indicators
-- ICSP header (programming interface)
+- ICSP pinout header (programming interface)
 - USB connection interface (only debugging mode)
 - SD Card storage interface
-- Other pinout headers from Chip (see Chip Manual)
-- Flashing/Debugging (USB) mode sliding switch (V1.1)
-- Power SPDT switch toggle (V1.2)
-- Power sliding switch (V1.4)
+- Other pinout headers from Chip
+- Flashing/Debugging (USB) mode sliding switch
+- Power SPDT switch toggle
+- Power sliding switch
+- PWM pinout header (GPIO#19)
 
 ---
 
